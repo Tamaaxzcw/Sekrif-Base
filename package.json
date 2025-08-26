@@ -1,0 +1,15 @@
+{
+  "name": "sekaiverse-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot modern by RiezeCoder",
+  "main": "handler/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node handler/main.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "latest",
+    "pino": "latest",
+    "fs-extra": "latest"
+  }
+}
